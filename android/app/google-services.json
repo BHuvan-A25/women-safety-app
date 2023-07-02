@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37634325987",
+    "project_id": "safetipin-sos",
+    "storage_bucket": "safetipin-sos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37634325987:android:000b13883d99d54176f4d6",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37634325987-4cqobc7rbpesr8gqkkin17v9549nhimf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBGgfDKHjBfPgv6980l_G2dJuixq52ygA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37634325987-4cqobc7rbpesr8gqkkin17v9549nhimf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
